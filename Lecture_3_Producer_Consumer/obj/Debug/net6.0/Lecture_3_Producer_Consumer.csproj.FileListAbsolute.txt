@@ -1,0 +1,15 @@
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.csproj.AssemblyReference.cache
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.AssemblyInfoInputs.cache
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.AssemblyInfo.cs
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.csproj.CoreCompileInputs.cache
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\bin\Debug\net6.0\Lecture_3_Producer_Consumer.exe
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\bin\Debug\net6.0\Lecture_3_Producer_Consumer.deps.json
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\bin\Debug\net6.0\Lecture_3_Producer_Consumer.runtimeconfig.json
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\bin\Debug\net6.0\Lecture_3_Producer_Consumer.dll
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\bin\Debug\net6.0\Lecture_3_Producer_Consumer.pdb
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.dll
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\refint\Lecture_3_Producer_Consumer.dll
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.pdb
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\Lecture_3_Producer_Consumer.genruntimeconfig.cache
+D:\ProjectC\C#\Lecture_3_Producer_Consumer\Lecture_3_Producer_Consumer\obj\Debug\net6.0\ref\Lecture_3_Producer_Consumer.dll
